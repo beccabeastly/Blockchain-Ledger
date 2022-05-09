@@ -26,7 +26,7 @@ Install GitBash to add Pandas here: [GitBash Install](https://gitforwindows.org/
 # Code Footnotes
 
 Added first block at level of difficulty 1
-![Block_Difficulty]()
+![Block_Difficulty](https://github.com/beccabeastly/Blockchain-Ledger/blob/main/Pychain_Record1.png)
 
 Added second block at level of difficulty 5
 ![Block_Difficulty]()
