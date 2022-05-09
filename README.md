@@ -30,6 +30,9 @@ Added second block at level of difficulty 1
 Added first block at level of difficulty 5
 ![Block_Difficulty](https://github.com/beccabeastly/Blockchain-Ledger/blob/main/Pychain_Record1.png)
 
+What is happening on the back end?
+![Hash_Validity](https://github.com/beccabeastly/Blockchain-Ledger/blob/main/back_end_pychain.png)
+
 
 # Contributors
 [Email](beccabeastly@gmail.com)
